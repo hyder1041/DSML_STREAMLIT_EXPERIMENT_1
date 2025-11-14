@@ -2,8 +2,6 @@ import pandas as pd
 import streamlit as st
 import datetime
 import pickle
-
-import seaborn as sns
 import os
 from io import BytesIO
 
